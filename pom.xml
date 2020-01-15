@@ -52,18 +52,6 @@
 			<distribution>repo</distribution>
 		</license>
 	</licenses>
-	<scm>
-		<tag>master</tag>
-		<url>https://github.com/magese/ik-analyzer-solr</url>
-		<connection>scm:git:git@github.com:magese/ik-analyzer-solr.git</connection>
-		<developerConnection>scm:git:git@github.com:magese/ik-analyzer-solr.git</developerConnection>
-	</scm>
-	<developers>
-		<developer>
-			<name>magese</name>
-			<email>magese@live.cn</email>
-		</developer>
-	</developers>
 	<build>
 		<plugins>
 			<plugin>
@@ -92,7 +80,4 @@
 			</plugin>
 		</plugins>
 	</build>
-	<profiles>
-	</profiles>
 </project>
-  
